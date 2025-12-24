@@ -1,4 +1,4 @@
-# My project work from Machine Learning Specialization course at Stanford University, Coursera 
+# Machine Learning projects
 Regression  
 Classification  
 Neural Networks for Handwritten Digit Recognition  
